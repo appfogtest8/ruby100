@@ -1,3 +1,4 @@
+# built with ruby 2.0
 
 get_vals = $stdin.gets
 list_vals = get_vals.split
